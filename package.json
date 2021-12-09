@@ -1,6 +1,5 @@
 {
   "name": "tesla-clone",
-  "homepage": "https://vishalnitkkr.github.io/react-TeslaClone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,8 +15,7 @@
     "styled-components": "^5.3.3"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
